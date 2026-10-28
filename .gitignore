@@ -1,0 +1,10 @@
+target/
+.vscode/
+.idea/
+*.iml
+.env
+.env.*
+*.local
+local-config.properties
+*.log
+*.tmp
